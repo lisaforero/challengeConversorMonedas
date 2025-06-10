@@ -59,3 +59,7 @@ La consulta se realiza a endpoints del tipo:
 
 - Puedes agregar más monedas modificando el menú y llamando al método `convertirMoneda` con los códigos ISO correspondientes.
 - Para mayor precisión en el manejo de valores monetarios, se recomienda usar la clase BigDecimal.
+
+### Autora
+
+Realizado por Lina Sánchez como parte de la formación del Programa ONE, una alianza entre Alura Latam y Oracle.
